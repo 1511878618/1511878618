@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a master student at the Beijing Institute of Genomics, Chinese Academy of Science
+- 🔭 I’m currently a PHD student at the Beijing Institute of Genomics, Chinese Academy of Science
 - 🌱 I’m currently learning Bioinformatics and Deep Learning
 - 👯 I’m looking to collaborate on disease prediction by Deep Learning
 - 💬 Ask me about python and Bioinformatics
